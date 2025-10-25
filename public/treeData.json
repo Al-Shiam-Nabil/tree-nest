@@ -1,0 +1,74 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://i.ibb.co.com/fV5HFzB7/Whats-App-Image-2025-10-25-at-23-05-10-0f27c335.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Peace Lily",
+    "category": "Indoor Flowering",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "Elegant white blooms that brighten indoor spaces while cleaning the air.",
+    "image": "https://i.ibb.co.com/XqmyW6s/Whats-App-Image-2025-10-25-at-23-05-10-0e03bcfd.jpg",
+    "providerName": "Leaf & Light Nursery"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Aloe Vera",
+    "category": "Succulent",
+    "price": 15,
+    "rating": 4.6,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "A medicinal plant known for its soothing gel and low maintenance needs.",
+    "image": "https://i.ibb.co.com/F4Gv73F0/Whats-App-Image-2025-10-25-at-23-05-11-52019235.jpg",
+    "providerName": "GreenCare Botanics"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Areca Palm",
+    "category": "Indoor Palm",
+    "price": 30,
+    "rating": 4.9,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "A tropical beauty that adds lush greenery and improves air quality.",
+    "image": "https://i.ibb.co.com/hFBy8x0p/Whats-App-Image-2025-10-25-at-23-05-11-3e46b0ab.jpg",
+    "providerName": "Tropical Bloom Co."
+  },
+  {
+    "plantId": 5,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 25,
+    "rating": 4.8,
+    "availableStock": 9,
+    "careLevel": "Easy",
+    "description": "A glossy-leaved plant that thrives in shade and requires minimal care.",
+    "image": "https://i.ibb.co.com/tpRfKhCg/Whats-App-Image-2025-10-25-at-23-05-11-e0eca4f0.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Boston Fern",
+    "category": "Hanging Plant",
+    "price": 20,
+    "rating": 4.5,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "A lush fern that loves humidity and adds charm to indoor hanging baskets.",
+    "image": "https://i.ibb.co.com/S4cxr08H/Whats-App-Image-2025-10-25-at-23-05-12-1f105558.jpg",
+    "providerName": "Leaf & Light Nursery"
+  }
+]
