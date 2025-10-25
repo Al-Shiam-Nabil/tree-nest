@@ -1,15 +1,15 @@
 # Assignment-9
 
-**Project Name :** ToyTopia Store
+**Project Name :** 
 
-**Purpose :** Online marketplace for kids' toys, encouraging families to discover and support local toy sellers.. Users can log in, browse toys, view detailed info, and leave feedback or ratings for toys they want to buy for their kids.
+**Purpose :** GreenNest is an elegant single-page web application built for plant lovers who want to nurture 
+and decorate their homes with healthy indoor plants. The platform allows users to explore plant care guides, buy plants, and book expert consultations — ensuring a greener and healthier living space during any season. 
 
-**Live URL :** toytopia-store-bd.netlify.app
+**Live URL :** 
 
 **Key Features :**
 
 - Secure Authentication system for log in and register
-- browse toys
 - view detailed info
 - Success/Error message show
 
